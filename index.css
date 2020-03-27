@@ -2,25 +2,19 @@ body {background-image:url('bintang.jpg');
 background-size:cover;
 background-attachment: fixed;}
 
-h1 { 
- text-color: white;
- text-shadow: 2px 2px #3399FF; 
- text-align:center;
- 
-}
-
-p { 
- color: black;
- text-align:center;
- font-family: verdana;
- font-size: 20px;
- background-color: salmon;"
-
-}
-
-h2{
-text-color: #3399FF; 
-text-shadow: 2px 2px white;
+h1 { text-align=left;
+ color: white;> 
+text-shadow: 2px 2px #3399FF; 
 text-align:center;
- 
+
+}
+
+p { text-align:center;
+ color:white;
+ color: white;
+}
+
+h2{text-shadow: 2px 2px #3399FF;
+text-align:center;
+ color: white; 
 }
