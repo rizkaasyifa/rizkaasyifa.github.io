@@ -3,8 +3,8 @@ background-size:cover;
 background-attachment: fixed;}
 
 h1 { 
- style="background-color: yellow;"
- color: white;
+ text-color: white;
+ text-shadow: 2px 2px #3399FF; 
  text-align:center;
  
 text-shadow: 2px 2px #3399FF; 
@@ -16,10 +16,12 @@ p {
  text-align:center;
  font-family: verdana;
  font-size: 20px;
+ style="background-color: yellow;"
 
 }
 
-h2{text-shadow: 2px 2px #3399FF;
+h2{text-color: white; 
+ text-shadow: 2px 2px #3399FF;
 text-align:center;
- text-color: white; 
+ 
 }
