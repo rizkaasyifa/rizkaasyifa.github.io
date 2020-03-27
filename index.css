@@ -9,11 +9,11 @@ text-align:center
 }
 
 p { text-align:center;
- color:white;
+ text-color:white;
  color: white;
 }
 
 h2{text-shadow: 2px 2px #3399FF;
 text-align:center;
- color: white; 
+ text-color: white; 
 }
