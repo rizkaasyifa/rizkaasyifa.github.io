@@ -7,8 +7,6 @@ h1 {
  text-shadow: 2px 2px #3399FF; 
  text-align:center;
  
-text-shadow: 2px 2px #3399FF; 
-text-align:center
 }
 
 p { 
@@ -21,8 +19,8 @@ p {
 }
 
 h2{
- text-color: #3399FF; 
- text-shadow: 2px 2px white;
+text-color: #3399FF; 
+text-shadow: 2px 2px white;
 text-align:center;
  
 }
