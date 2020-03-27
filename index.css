@@ -1,12 +1,19 @@
-body {background-image:url('bintang.jpg');background-size:cover;background-attachment: fixed;}
-h1 {align="left" style="color: white;"> 
+body {background-image:url('bintang.jpg');
+background-size:cover;
+background-attachment: fixed;}
+
+h1 { text-align=left;
+ color: white;> 
 text-shadow: 2px 2px #3399FF; 
-text-align="center"}
-style="display: block; margin; auto;">
-p {class="dashed" style="color:white;"> 
- text-align="center" style="color: white;">}
+text-align:center
+}
+
+p { text-align:center;
+ color:white;
+ color: white;
+}
 
 h2{text-shadow: 2px 2px #3399FF;
-text-align="center" style="color: white;"}
-{class="dashed" style="color:white;";
-text-align="center" style="color: white;"}
+text-align:center;
+ color: white; 
+}
